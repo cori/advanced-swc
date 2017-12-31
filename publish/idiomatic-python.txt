@@ -2,7 +2,7 @@ Idiomatic Python
 ================
 
 Extracts from `The Zen of Python
-<http://www.python.org/doc/Humor.html#zen>`__ by Tim Peters:
+<https://www.python.org/doc/humor/#the-zen-of-python>`__ by Tim Peters:
 
   - Beautiful is better than ugly.
   - Explicit is better than implicit.
